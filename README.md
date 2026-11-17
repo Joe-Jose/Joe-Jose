@@ -10,8 +10,8 @@ Hey, I'm Joe
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/joe-jose-298372271)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:JoeJose2005p@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white)](https://yourusername.github.io/resume.pdf)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://yourusername.github.io)
+[![Resume](https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=readme&logoColor=white)](https://joe-jose.github.io/resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=githubpages&logoColor=white)](https://joe-jose.github.io)
 
 🛠️ Tools & Tech
 
